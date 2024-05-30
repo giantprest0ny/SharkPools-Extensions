@@ -378,7 +378,7 @@
       "status": "",
       "date": "Released: 05/04/2024"
     },
-    "Extension-Test": {
+    "extensionTest": {
       "credits": "GiantPrest0ny",
       "url": "https://raw.githubusercontent.com/giantprest0ny/SharkPools-Extensions/main/extension-code/extensionTest.js",
       "tags": ".all.utilities",
