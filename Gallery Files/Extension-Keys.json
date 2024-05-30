@@ -378,12 +378,12 @@
       "status": "",
       "date": "Released: 05/04/2024"
     },
-    "Example": {
-      "credits": "",
-      "url": "",
-      "tags": ".all.utilities.expanded.fetching.searchQ",
+    "Extension-Test": {
+      "credits": "GiantPrest0ny",
+      "url": "https://raw.githubusercontent.com/giantprest0ny/SharkPools-Extensions/main/extension-code/extensionTest.js",
+      "tags": ".all.utilities",
       "status": "",
-      "date": ""
+      "date": "Released 05/29/2024  "
     }
   },
   "GAL text": [
